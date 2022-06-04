@@ -156,7 +156,7 @@ Avec des voyelles dont les longs traits sont **verticaux**, on place la consonne
 
 <br>
 
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;여 + ᄀ = 역 [yeok] &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;(​gare​)ᄆ+ᅡ + ᄅ = 말[mal] (​cheval,mot​)<br>ᄀ + ᅵ + ᄆ = 김 [kim](​algue séché​)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;ᄊ + ᅡ + ᄅ + = 쌀 [sal](​riz​) <br>ᄇ + ᅡ + ᆰ (​groupe de consonne, voir plus tard) ​= 밝 [bak]</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;여 + ᄀ = 역 [yeok](​gare​)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&thinsp;ᄆ+ᅡ + ᄅ = 말[mal] (​cheval,mot​)<br>ᄀ + ᅵ + ᄆ = 김 [kim](​algue séché​)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp;&thinsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;ᄊ + ᅡ + ᄅ + = 쌀 [sal](​riz​) <br>ᄇ + ᅡ + ᆰ (​groupe de consonne, voir plus tard) ​= 밝 [bak]</p>
 
 
 
